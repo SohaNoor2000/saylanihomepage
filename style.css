@@ -1,0 +1,1039 @@
+@media screen and (max-width:1400px)
+{
+ *{
+     margin: 0;
+     padding: 0;
+     font-size:normal;
+     font-family:'Times New Roman', Times, serif;
+}
+
+.head{
+      background-color:slateblue;
+      color: snow; 
+      width: 100%;
+      height:100px;
+     }
+.uul{
+          width: 25%;
+          height: 80px;
+          float: left;
+        display: inline-flex;;
+     }
+.uul li{
+          float: left;
+          margin-top: 15px;
+          padding:10px;
+         
+         
+     }
+.uul ul li i{
+          font-size: 20px; 
+          color: slateblue;
+          border-radius: 30px;
+     }
+     #twit,#insta,#you
+     {
+          background-color: white;
+          padding:7px 7px;
+     }
+
+#face
+{
+     background-color: white;
+     padding:7px 11px;
+  
+}
+ .p{ 
+      text-align: center;
+      font-family:  Helvetica, sans-serif;
+      height: 80px;
+      width: 50%;
+      float: left;
+     } 
+.p p{
+          margin-top: 30px;
+          margin-left: -50px;
+     }
+.buttons{
+      width: 25%;
+      height: 80px;
+      float: left;
+     }
+.buttons input{
+          height: 30px;
+          width: 90px;
+          margin: 20px 10px 0 15px;
+          margin-right: -20px;
+          margin-left: 20px;
+          text-decoration: none;
+     }
+.logo{
+          height: 80px;
+          width: 30%;
+          float: left;
+          text-align: center; 
+          background-color: whitesmoke;
+          border-bottom: 2px solid grey;
+          position: sticky;
+          top: 0px;
+          
+     }
+.logo img{
+          width: 55%;
+          height: 80px;
+      
+          
+          
+     }
+
+     #navigation-bar
+     {
+      position: sticky;
+      top: 0px;
+   
+     }
+.menu{
+      width: 70%;
+      height: 80px;    
+      float: left;  
+      background-color: whitesmoke;
+      border-bottom: 2px solid grey;
+}
+.menu ul li ol{
+     width: 200px;
+     position: absolute;
+     top: 40px;
+}
+.menu ul li ol li ol{
+     width: 200px;
+}
+.menu ul li{
+     float: left;
+     list-style: none; 
+     line-height: 30px;
+
+}
+.menu ol li{
+     width: 200px;
+
+}
+.menu ul li a{
+     color:slateblue;
+     text-decoration: none;
+      margin-left:5px;
+     border-radius: 20px;
+     padding: 10px;
+     font-size: large;
+}
+.menu ul{
+     margin: 35px 0 0 60px;
+     position: relative;
+}
+
+.menu ul li ol{
+     display: none;
+     background-color: whitesmoke;
+     width: 200px; 
+   
+}
+.menu ul li ol li{
+     background-color: whitesmoke;
+}
+#conatct-us
+{
+     margin-right: -90px;
+}
+.menu i{
+     float: right;
+     margin-top: 8px;
+     margin-left: -5px;
+}
+.menu ul li ol li ol li{
+     display: none;
+     color: slateblue;
+     background-color: whitesmoke;
+}
+.menu #active, .ul:hover{
+     background-color:slateblue;
+     color: white;
+     transition: 0.5s;
+}
+.menu ol li:hover{
+     background-color: slateblue;
+     
+}
+.menu ol li:hover>a{
+     color: white;
+}
+.menu ul li:hover ol{
+     display: block;
+}
+.menu ul li ol li:hover ol li{
+     display: block;
+}
+.menu ul li ol li ol{
+     position: absolute;
+     left: 200px;
+     top: 0px;
+}
+.ul .ull{
+     position: absolute;
+     top: 50;
+
+}
+.ul .oll{
+     position: absolute;
+     top: 82px;
+}
+.ool .wol{
+     position: absolute;
+     top:368px;
+}
+.soll .sol{
+     position: absolute;
+     left: 200px;
+     top: 0px;
+}
+.double .dol{
+     position: absolute;
+     left: 180px;
+     top: 180px;
+}
+.big img{
+     width: 100%;
+     height: 500px;
+}
+#nn{
+     
+     width: 70%;
+     height: 30px;
+     text-align: center;
+     margin: 10px 0px -10px 200px;
+     background-color:slateblue ;
+     overflow-y: hidden;
+}
+#nn p{
+     padding: 5px;
+     color: white;    
+     overflow-y: hidden;
+
+}
+.intro{
+     text-align: center;
+     color:slateblue;
+}
+.duction{
+     color: green;
+     margin-left: -7px;
+}
+#introduction{
+
+    margin-top: 30px;
+}
+.body{
+     background-color: whitesmoke;
+}
+.paragraph{
+     margin-left: 200px;
+     margin-right: 200px;
+     text-align: justify;
+     font-size: 18px;
+     line-height: 30px;
+      color:grey;
+} 
+
+#div1,#div2,#div3,#div4,#div5,#div6
+{
+     margin-top: 40px;
+     width: 25%;
+     height: 200px;
+     margin-left: 53px;
+     text-align: center;
+     display: inline-block;
+     background-color: white;
+     box-shadow: 5px 5px 10px grey;
+}
+.firstdiv,.seconddiv,.thirddiv,.forthdiv
+{
+     display:inline-block;
+     width:300px;
+     height:50px;
+} 
+
+#whitesmoke
+{
+     height:700px;
+}
+
+ #straight{
+      margin-top: 10px ;
+      margin-right: 590px;
+      margin-left: 690px;
+      border:1px solid green;
+}
+ .stand{ 
+      border:1px solid green;
+      margin-top: 30px;
+}
+ #monthly-services{
+      background-color: slateblue;
+      width:100%;
+      height:auto;
+}
+ .table tr td{
+      width:350px;
+      height:200px;
+      background-color: white;
+       box-shadow: 5px 5px 10px 3px gray;
+     } 
+  .table
+ {   margin-left: 100px;
+     margin-top: 20px;
+}
+ .table tr td h3{
+      text-align: center;
+      color:slateblue;
+}
+ .table tr td img{
+      margin-left: 120px;
+}
+ .upcoming-events tr td{
+      width: 350px;
+      height:70px; 
+      border:1px solid gainsboro;
+      background-color: whitesmoke;
+      margin-left: 80%;
+}
+ .small-img{
+      margin-left: 10px;
+      margin-right: 60px;
+} 
+ #side-paragraph{
+      float: right;
+      margin-right: 90px;
+      margin-top: -250px;}
+ #GALLERY{
+      margin-top: 20px;
+      margin-left: 150px;
+}
+ .contact ul li{
+      display: inline-block;
+      margin-left: 5px;
+}
+ .contact ul{
+      margin-left: 20px;
+      margin-top: -5px;
+}
+
+
+ #monthly-services-img1{
+      margin-top: 70px;
+      margin-bottom: 10px;
+      margin-left: 180px
+}
+ #monthly-services-img2{
+      margin-left: 130px;
+      margin-top: 70px;
+      margin-bottom: 10px;
+}
+ #monthly-services-img3{
+      margin-left: 140px;
+      margin-bottom: 10px;
+      margin-top: 70px;
+}
+ #monthly-services-img4 { 
+      margin-left: 150px;
+      margin-bottom: 10px;
+      margin-top: 65px;
+}
+ #monthly-services-h1{
+      margin-left: 130px;
+      font-size:50px ;
+      color: white;
+}
+ #monthly-services-p1{
+      color: white;
+      margin-left: 80px;
+      margin-top: 10px;
+      
+}
+#monthly-services-span1{
+     color:#00FF00 ;
+     font-size: 20px;
+     margin-top: 10px;
+   
+}
+#monthly-services-h2{
+     font-size: 50px;
+     color: white;
+     margin-left: 100px;
+}
+#monthly-services-p2{
+     color:white;
+     margin-left: 40px;
+     margin-top: 10px;
+  
+}
+#monthly-services-span2{
+     color:#00FF00 ;
+     font-size: 20px;
+     margin-top: 10px;
+     
+}
+#monthly-services-h3{
+     font-size: 50px;
+     margin-left: 100px;
+     color: white;
+}
+#monthly-services-p3{
+     color: white;
+     margin-left: 70px;
+     margin-top: 10px;
+
+}
+#monthly-services-span3{
+     color:#00FF00;
+     font-size: 20px;
+     margin-top: 10px;
+   
+}
+#monthly-services-h4{
+     font-size: 50px;
+     margin-left: 90px;
+     color: white;
+
+}
+#monthly-services-span4{
+     font-size: 20px;
+     color:#00FF00;
+     margin-top: 10px;
+}
+.monthly-services-p4
+{
+     color: white;
+     margin-top: 10px;
+     margin-left: 65px;
+}
+
+#whitesmoke{
+     background-color: whitesmoke;
+     height: auto;
+}
+.MISSION-AND-UPCOMING-PROJECTS{
+     margin-left: 5px;
+      margin-top: 60px;
+       color:slateblue;
+     }
+#MISSION-AND-UPCOMING-PROJECTS-p{
+     border-bottom: 2px solid green;
+     margin-right: 890px;}
+.MISSION-AND-UPCOMING-PROJECTS-h4{
+     display: inline;
+     color: slateblue;
+}
+
+#side-paragraph-h2{
+     color: slateblue;
+}
+#side-paragraph-p2{
+     color: slategray;
+}
+.image{
+     color:green;
+     margin-left: 550px;
+     margin-top: 60px;
+}
+.gallery{
+     color: slateblue;
+}
+.line{
+     border-bottom: 2px solid green;
+     color: white;
+    
+}
+.last-div{
+     background-color: rgba(0, 0, 0, 0.788);
+     color:rgb(218, 211, 211);
+     padding: 30px 60px 30px 60px;
+     line-height: 2em;
+}
+.useful-links{
+     color: white;
+     margin-left: 500px;
+     margin-right: 200px;
+}
+.contact-us{
+     color: white;
+     padding-left:70px;
+}
+.last-div-p{
+     border-bottom: 2px solid green;
+     margin-left: 500px;
+     margin-top: -20px;
+}
+.what-we{ 
+     color:green ;
+     text-align: center;
+     margin-top: 20px;
+     padding-top: 50px;
+}
+#facebook{
+     background-color:white;
+     padding: 6px 10px;
+     border-radius: 30px;
+     margin-left: 70px;
+}
+#tweeter{
+     background-color:white;
+     padding: 7px 7px;
+     border-radius: 30px;
+}
+#youtube{
+     background-color:white;
+     padding: 7px 7px;
+     border-radius: 30px;
+}
+#instagram{
+     background-color:white;
+     padding: 7px 7px;
+     border-radius: 30px;
+}
+.end{
+     color: green;
+}  
+}
+
+@media screen and (max-width:1200px)
+{
+    
+.uul li
+{
+    padding: 2px; 
+}
+.uul{
+     width: 20%;
+
+}
+.buttons 
+{
+     
+     margin-left: -30px;
+}
+#button2
+{
+     margin-right: -190px;
+}
+.p p{
+      
+         margin-left: -60px;
+        padding-right: 20px;
+    }
+.logo{
+    
+     width: 25%;
+     box-shadow: 15px 0px 5px grey;
+     height: 100px;
+    
+}
+.menu{   
+     padding-right:50px;
+     height: 100px;
+}
+#active
+{
+    
+     margin-left: -50px; 
+}
+ #contact-us
+
+{
+     margin-right: -120px;
+     margin-top: -60px;
+}
+.thirddiv
+{  
+display: block;
+}
+.firstdiv,.seconddiv
+{
+     width:40%;
+
+}
+
+.thirddiv,.forthdiv
+{
+     width:40%;
+     display: inline-block;
+}
+#monthly-services-img1,#monthly-services-img2,#monthly-services-img3,#monthly-services-img4 {
+
+     margin-left: 130px
+}
+ 
+     #monthly-services-h1, #monthly-services-h3, #monthly-services-h4
+     {
+          margin-left: 80px;
+     }
+     #monthly-services-p1{
+          
+          text-align: center;
+          margin-left: -1px;
+         
+    }
+    #monthly-services-h2
+    {
+        
+         margin-left: 100px;
+    }
+    #monthly-services-p2
+    {
+      
+       margin-right:-60px;
+    }
+   #monthly-services-p3
+   
+   {
+        margin-right: -30px;
+   }
+    .table
+ {
+     margin-left: 20px;
+     
+ }
+ .upcoming-events tr td
+ {
+      width: 300px;
+ }
+ #side-paragraph{
+     
+     margin-right: 40px
+ }
+.image
+{
+    
+     margin-left:  400px;
+}
+#GALLERY{
+    
+     margin-left: 70px;
+}
+.useful-links{
+
+     margin-left: 390px;
+}
+
+.last-div-p
+{
+     margin-left: 400px;
+}
+
+}
+
+@media screen and (max-width:1100px)
+{
+    
+     .head
+     {
+          height:100px;
+     }
+     .logo{
+          
+         display: none;
+     }
+.menu
+     {
+        width: 100%;
+        
+     
+     }
+     #monthly-services-p2
+{
+     margin-right: 70px;
+}
+     #monthly-services-p3
+{
+     margin-right: 70px;
+}
+ .menu ul li
+     {
+          margin-left: 3%;
+     }
+     #monthly-services-p2, #monthly-services-p3
+     {
+       
+      text-align: center;
+     }
+     #GALLERY{
+         
+          margin-left: 10px;
+    }
+   #seconddiv
+    {
+display: block;
+    }
+.useful-links
+{
+     margin-left: 300px;
+}
+.last-div-p
+{
+     margin-left:300px ;
+     margin-right: 20px;
+}
+
+.menu{
+     padding-right: 10%;
+}
+#div2,#div4,#div6,#div5,#div3,#div1
+{ 
+     display: block;
+     width: 70%;
+     height:200px;
+     margin-left: 150px;
+}
+
+
+}
+
+
+/* new query */
+
+
+@media screen and (max-width:1000)
+{
+     .head
+     {
+          height:100px;
+     }
+     .menu{
+          
+          height: 100px;   
+     }
+     #image1{
+          
+          margin-left: -70px;
+    }
+}
+
+
+/* new query */
+
+@media (max-width:800px)
+{
+.p p
+{
+margin-top: 55px;
+}
+#nn 
+{
+margin-left: 110px;
+}
+#side-paragraph
+{
+     margin-top: 20px;
+     margin-right: 500PX;
+}
+.image
+{
+     margin-left:250px;
+}
+.buttons
+{
+     margin-left: -80px;
+}
+.useful-links
+{
+     margin-left: -20px;
+}
+.last-div-p
+{
+margin-left:-20px ;
+}
+#facebook
+{
+      margin-top: -20px;
+     margin-left: -30px;
+} 
+}
+
+/* new query */
+@media (max-width:700px)
+{
+     .paragraph
+     {
+          margin-left: 10px;
+          margin-right: 10px;
+
+     }
+     
+     .uul ul 
+
+     {
+          display: block;
+         
+     }
+     #image1,#image2,#image3,#image4,#image5,#image6
+     {
+          margin-left: 40px;
+     }
+     .p p
+     {
+        margin-top: 40px;
+        margin-left: 30px;
+        text-align: justify;
+     }
+     #face{
+        display: block;
+     }
+     .buttons
+     {
+          margin-left: 5px;
+     }
+     #button1
+     {
+          margin-top: 2px;
+     }
+    #button2
+    {
+         display: block;
+         margin-top: 2px;
+    }
+    .head{
+    
+     width: 100%;
+     height:140px;
+    }
+    .menu
+    {
+         height: 180px;
+         position: sticky;
+         top: 0px;
+
+    }
+    .logo
+    {
+         position: absolute;
+         margin-top: 320px;
+    }
+   .menu ul li ol 
+   {
+        margin-top: -20px;
+        margin-left: -60px;
+   }
+   .menu ul li ol li ol
+   {
+      margin-left: -50px;
+  }
+  .menu ul li ol li ol li ol
+  {
+       margin-top: 10px;
+       margin-left: -400px;
+       background-color: white;
+  }
+  #nn{
+     
+    
+     text-align: left;
+     margin-left: 2px;
+     width: 100%;
+     height: 50px;
+  }
+  .firstdiv,.seconddiv,.thirddiv,.forthdiv
+  {
+       display: block;
+       width: 100%;
+       height: 100%;
+  }
+ #monthly-services-img1,#monthly-services-img2,#monthly-services-img3,#monthly-services-img4
+ {
+      margin-left: 150px;
+      width: 100px;
+      height:100px;
+ }
+ #monthly-services-p1,#monthly-services-p2,#monthly-services-p3
+ {
+      margin-left: 50px;
+ }
+ #monthly-services-h4
+ {
+      margin-left: 30%;
+ }
+ .monthly-services-p4
+ {
+     margin-left: 25%;
+ }
+ #monthly-services-h1,#monthly-services-h2,#monthly-services-h3,#monthly-services-p4
+ {
+      margin-left: 130px;
+ }
+ #div1,#div2,#div3,#div4,#div5,#div6
+ {
+      width:70%;margin-left: 50px;
+ }
+
+.MISSION-AND-UPCOMING-PROJECTS 
+{
+width:20px;
+}
+.upcoming-events tr td
+{
+width:200px;
+}
+#side-paragraph
+{
+     margin-top: 40px;
+     margin-left: 10px;
+}
+#MISSION-AND-UPCOMING-PROJECTS-p{
+     margin-right: -30px;}
+
+.MISSION-AND-UPCOMING-PROJECTS-h4{
+     margin-left:20px;
+}
+#side-paragraph
+{
+     margin-right: 140px;
+}
+.image{
+
+     margin-left: 70px;
+}
+.logo
+{
+     display: block;
+     width: 100%;
+     
+}
+#image1,#image2,#image3,#image4,#image5
+{ 
+     margin-left: 110px;
+     box-sizing: border-box;
+
+}
+.useful-links
+{
+     margin-left: -50px;
+}
+.last-div-p
+{
+
+     margin-right: 150px;
+}
+.contact-us
+{
+     margin-left: -150px;
+}
+.contact ul 
+{
+     margin-left: -60px;
+}
+}
+
+
+/* new query */
+
+@media (max-width:400px)
+{
+     .head
+     {
+          height: 230px;
+     }
+     
+     .menu
+     {
+         
+          position: sticky;
+          top: 0px;
+          padding-bottom: 20px;
+         
+         
+     }
+     .p p
+{
+     margin-left: -10px;
+}
+#button1,#button2
+{
+margin-top: 20px;
+}
+     .buttons
+     {
+          margin-left: -20px;
+         
+     }
+    
+     .logo
+     {
+          position: absolute;
+          /* margin-top: 430px; */
+          box-shadow: none;
+     }
+     #image1,#image2,#image3,#image4,#image5,#image6
+     {
+          margin-left: 80px;
+     }
+     .MISSION-AND-UPCOMING-PROJECTS-h4
+     {
+          margin-left: 30px;
+     }
+     #side-paragraph
+     {
+          margin-left: 20px;
+     }
+     .image
+     {
+          margin-left: 50px;
+     }
+     .uul li
+     {
+          padding: 3px;
+     }
+     #face
+     {
+         margin-top: -10px;
+     }
+   #twit
+   {
+        margin-top: -55px;
+   }
+   #insta
+   {
+        margin-top: -30%;
+   }
+   #you
+   {
+        margin-top: -1200px;
+   }
+   .contact ul 
+{
+     margin-left: -120px;
+     margin-top: 10px;
+}
+.uul li i
+{
+     padding:2px 2px;
+}
+.useful-links
+{
+     margin-left: -50px;
+}
+.last-div-p
+{
+     margin-left: -50px;
+     margin-right: 90px;
+     margin-top: -90px;
+}
+.contact-us
+{
+     margin-top: 150px;
+     padding-left: 0px;
+}
+#monthly-services-img1,#monthly-services-img2,#monthly-services-img3,#monthly-services-img4
+ {
+      margin-left: 130px;
+      width: 100px;
+      height:100px;
+ }
+ 
+ 
+}
